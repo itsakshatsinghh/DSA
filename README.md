@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/itsakshatsinghh/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/itsakshatsinghh/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/itsakshatsinghh/DSA/tree/master/1168-duplicate-zeros) |
+| [1894-merge-strings-alternately](https://github.com/itsakshatsinghh/DSA/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/itsakshatsinghh/DSA/tree/master/1019-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/itsakshatsinghh/DSA/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
