@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/itsakshatsinghh/DSA/tree/master/0054-spiral-matrix) |
 | [0238-product-of-array-except-self](https://github.com/itsakshatsinghh/DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/itsakshatsinghh/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/itsakshatsinghh/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/itsakshatsinghh/DSA/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/itsakshatsinghh/DSA/tree/master/0605-can-place-flowers) |
 | [1019-squares-of-a-sorted-array](https://github.com/itsakshatsinghh/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/itsakshatsinghh/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/itsakshatsinghh/DSA/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |
