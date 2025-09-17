@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/itsakshatsinghh/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsakshatsinghh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/itsakshatsinghh/DSA/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/itsakshatsinghh/DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/itsakshatsinghh/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/itsakshatsinghh/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/itsakshatsinghh/DSA/tree/master/0054-spiral-matrix) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/itsakshatsinghh/DSA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/itsakshatsinghh/DSA/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
@@ -140,11 +142,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/itsakshatsinghh/DSA/tree/master/0037-sudoku-solver) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/itsakshatsinghh/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/itsakshatsinghh/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/itsakshatsinghh/DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/itsakshatsinghh/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/itsakshatsinghh/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/itsakshatsinghh/DSA/tree/master/0078-subsets) |
