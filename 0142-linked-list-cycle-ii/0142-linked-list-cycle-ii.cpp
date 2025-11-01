@@ -23,7 +23,7 @@ public:
                 break;
             }
         }
-        if(!iscyc){
+        if(iscyc==false){
             return NULL;
         }
         slow=head;
