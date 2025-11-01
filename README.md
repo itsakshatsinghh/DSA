@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/itsakshatsinghh/DSA/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/itsakshatsinghh/DSA/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/itsakshatsinghh/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/itsakshatsinghh/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/itsakshatsinghh/DSA/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/itsakshatsinghh/DSA/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/itsakshatsinghh/DSA/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/itsakshatsinghh/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/itsakshatsinghh/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/itsakshatsinghh/DSA/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/itsakshatsinghh/DSA/tree/master/2491-smallest-even-multiple) |
 ## Greedy
 |  |
