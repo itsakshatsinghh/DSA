@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/itsakshatsinghh/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/itsakshatsinghh/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsakshatsinghh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/itsakshatsinghh/DSA/tree/master/0027-remove-element) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/itsakshatsinghh/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/itsakshatsinghh/DSA/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/itsakshatsinghh/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/itsakshatsinghh/DSA/tree/master/0367-valid-perfect-square) |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/itsakshatsinghh/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/itsakshatsinghh/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
