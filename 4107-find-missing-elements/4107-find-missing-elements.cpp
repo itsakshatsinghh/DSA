@@ -8,7 +8,7 @@ public:
         int min=*min_it;
         // int max=nums[nums.size()-1];
         // int min=nums[0];
-        unordered_map<int, int> m;
+        map<int, int> m;
         //mapping to 0
         for(int i=min;i<=max;i++){
             m[i]=0;
@@ -23,7 +23,7 @@ public:
                 ans.push_back(it.first);
             }
         }
-        sort(ans.begin(), ans.end());
+        
         return ans;
     }
 };
