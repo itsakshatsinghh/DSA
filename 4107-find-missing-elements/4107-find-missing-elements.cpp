@@ -2,23 +2,28 @@ class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
         vector<int> ans;
-        sort(nums.begin(), nums.end());
-        // int mx=nums[nums.size()-1] , mn=nums[0];
-        for(int i=0;i<nums.size()-1;i++){
-            //check case , if present or not , if not then push
-            int curnum=nums[i];
-            int nextnum=nums[i+1];
-            if(nextnum>curnum+1){
-                for(int j=curnum+1;j<nextnum;j++){
-                ans.push_back(j);
-
-                }
-            }
-
+        auto max_it = max_element(nums.begin(), nums.end());
+        int max=*max_it;
+        auto min_it=min_element(nums.begin(), nums.end());
+        int min=*min_it;
+        // int max=nums[nums.size()-1];
+        // int min=nums[0];
+        map<int, int> m;
+        //mapping to 0
+        for(int i=min;i<=max;i++){
+            m[i]=0;
         }
-        return ans;
-
-
+        //updating the freq;
+        for(int i :nums){
+            m[i]++;
+        }
+        //checking whose freq = 0;
+        for(auto& it : m){
+            if(it.second==0){
+                ans.push_back(it.first);
+            }
+        }
         
+        return ans;
     }
 };
