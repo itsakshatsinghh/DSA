@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/itsakshatsinghh/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/itsakshatsinghh/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/itsakshatsinghh/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2662-check-knight-tour-configuration](https://github.com/itsakshatsinghh/DSA/tree/master/2662-check-knight-tour-configuration) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/itsakshatsinghh/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/itsakshatsinghh/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/itsakshatsinghh/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -47,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/itsakshatsinghh/DSA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/itsakshatsinghh/DSA/tree/master/0054-spiral-matrix) |
+| [2662-check-knight-tour-configuration](https://github.com/itsakshatsinghh/DSA/tree/master/2662-check-knight-tour-configuration) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/itsakshatsinghh/DSA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/itsakshatsinghh/DSA/tree/master/0258-add-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/itsakshatsinghh/DSA/tree/master/2288-count-operations-to-obtain-zero) |
+| [2662-check-knight-tour-configuration](https://github.com/itsakshatsinghh/DSA/tree/master/2662-check-knight-tour-configuration) |
 ## Two Pointers
 |  |
 | ------- |
@@ -243,12 +246,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/itsakshatsinghh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/itsakshatsinghh/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/itsakshatsinghh/DSA/tree/master/0572-subtree-of-another-tree) |
+| [2662-check-knight-tour-configuration](https://github.com/itsakshatsinghh/DSA/tree/master/2662-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/itsakshatsinghh/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/itsakshatsinghh/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/itsakshatsinghh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2662-check-knight-tour-configuration](https://github.com/itsakshatsinghh/DSA/tree/master/2662-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
