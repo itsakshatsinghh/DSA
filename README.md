@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4078-maximum-alternating-sum-of-squares](https://github.com/itsakshatsinghh/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4107-find-missing-elements](https://github.com/itsakshatsinghh/DSA/tree/master/4107-find-missing-elements) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/itsakshatsinghh/DSA/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
+| [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/itsakshatsinghh/DSA/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/itsakshatsinghh/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [4107-find-missing-elements](https://github.com/itsakshatsinghh/DSA/tree/master/4107-find-missing-elements) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/itsakshatsinghh/DSA/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
+| [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/itsakshatsinghh/DSA/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Backtracking
 |  |
 | ------- |
