@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/itsakshatsinghh/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/itsakshatsinghh/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/itsakshatsinghh/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/itsakshatsinghh/DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/itsakshatsinghh/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/itsakshatsinghh/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/itsakshatsinghh/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/itsakshatsinghh/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/itsakshatsinghh/DSA/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/itsakshatsinghh/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/itsakshatsinghh/DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/itsakshatsinghh/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/itsakshatsinghh/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4107-find-missing-elements](https://github.com/itsakshatsinghh/DSA/tree/master/4107-find-missing-elements) |
