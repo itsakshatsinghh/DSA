@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/itsakshatsinghh/DSA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/itsakshatsinghh/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/itsakshatsinghh/DSA/tree/master/0257-binary-tree-paths) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/itsakshatsinghh/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/itsakshatsinghh/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/itsakshatsinghh/DSA/tree/master/1894-merge-strings-alternately) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/itsakshatsinghh/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/itsakshatsinghh/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/itsakshatsinghh/DSA/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/itsakshatsinghh/DSA/tree/master/0257-binary-tree-paths) |
 ## Counting Sort
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itsakshatsinghh/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/itsakshatsinghh/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/itsakshatsinghh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/itsakshatsinghh/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/itsakshatsinghh/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/itsakshatsinghh/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/itsakshatsinghh/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/itsakshatsinghh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/itsakshatsinghh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/itsakshatsinghh/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/itsakshatsinghh/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/itsakshatsinghh/DSA/tree/master/0572-subtree-of-another-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/itsakshatsinghh/DSA/tree/master/2662-check-knight-tour-configuration) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itsakshatsinghh/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/itsakshatsinghh/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/itsakshatsinghh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/itsakshatsinghh/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/itsakshatsinghh/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/itsakshatsinghh/DSA/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
