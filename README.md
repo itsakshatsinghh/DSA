@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/itsakshatsinghh/DSA/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/itsakshatsinghh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/itsakshatsinghh/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/itsakshatsinghh/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/itsakshatsinghh/DSA/tree/master/0496-next-greater-element-i) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/itsakshatsinghh/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/itsakshatsinghh/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/itsakshatsinghh/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/itsakshatsinghh/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/itsakshatsinghh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/itsakshatsinghh/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/itsakshatsinghh/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/itsakshatsinghh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/itsakshatsinghh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/itsakshatsinghh/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/itsakshatsinghh/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/itsakshatsinghh/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/itsakshatsinghh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
