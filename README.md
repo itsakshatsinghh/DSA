@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/itsakshatsinghh/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/itsakshatsinghh/DSA/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/itsakshatsinghh/DSA/tree/master/0605-can-place-flowers) |
+| [0704-binary-search](https://github.com/itsakshatsinghh/DSA/tree/master/0704-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/itsakshatsinghh/DSA/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/itsakshatsinghh/DSA/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/itsakshatsinghh/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/itsakshatsinghh/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/itsakshatsinghh/DSA/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/itsakshatsinghh/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/itsakshatsinghh/DSA/tree/master/0704-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/itsakshatsinghh/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
