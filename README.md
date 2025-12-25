@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/itsakshatsinghh/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/itsakshatsinghh/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/itsakshatsinghh/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/itsakshatsinghh/DSA/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/itsakshatsinghh/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/itsakshatsinghh/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/itsakshatsinghh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/itsakshatsinghh/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/itsakshatsinghh/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/itsakshatsinghh/DSA/tree/master/0070-climbing-stairs) |
 | [0416-partition-equal-subset-sum](https://github.com/itsakshatsinghh/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/itsakshatsinghh/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/itsakshatsinghh/DSA/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/itsakshatsinghh/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/itsakshatsinghh/DSA/tree/master/0605-can-place-flowers) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/itsakshatsinghh/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
