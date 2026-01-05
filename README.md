@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/itsakshatsinghh/DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/itsakshatsinghh/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/itsakshatsinghh/DSA/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/itsakshatsinghh/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/itsakshatsinghh/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/itsakshatsinghh/DSA/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/itsakshatsinghh/DSA/tree/master/0075-sort-colors) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/itsakshatsinghh/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/itsakshatsinghh/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/itsakshatsinghh/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/itsakshatsinghh/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/itsakshatsinghh/DSA/tree/master/0198-house-robber) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/itsakshatsinghh/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/itsakshatsinghh/DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itsakshatsinghh/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/itsakshatsinghh/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/itsakshatsinghh/DSA/tree/master/0169-majority-element) |
