@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/itsakshatsinghh/DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itsakshatsinghh/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/itsakshatsinghh/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/itsakshatsinghh/DSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/itsakshatsinghh/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/itsakshatsinghh/DSA/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/itsakshatsinghh/DSA/tree/master/0238-product-of-array-except-self) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/itsakshatsinghh/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/itsakshatsinghh/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/itsakshatsinghh/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/itsakshatsinghh/DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/itsakshatsinghh/DSA/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/itsakshatsinghh/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/itsakshatsinghh/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/itsakshatsinghh/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/itsakshatsinghh/DSA/tree/master/0139-word-break) |
 ## Enumeration
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/itsakshatsinghh/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/itsakshatsinghh/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/itsakshatsinghh/DSA/tree/master/0020-valid-parentheses) |
+| [0139-word-break](https://github.com/itsakshatsinghh/DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/itsakshatsinghh/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/itsakshatsinghh/DSA/tree/master/0257-binary-tree-paths) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/itsakshatsinghh/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itsakshatsinghh/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/itsakshatsinghh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/itsakshatsinghh/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/itsakshatsinghh/DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/itsakshatsinghh/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/itsakshatsinghh/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/itsakshatsinghh/DSA/tree/master/0169-majority-element) |
@@ -376,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/itsakshatsinghh/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/itsakshatsinghh/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
