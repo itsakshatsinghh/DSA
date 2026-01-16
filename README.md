@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/itsakshatsinghh/DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/itsakshatsinghh/DSA/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/itsakshatsinghh/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [1143-longest-common-subsequence](https://github.com/itsakshatsinghh/DSA/tree/master/1143-longest-common-subsequence) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/itsakshatsinghh/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/itsakshatsinghh/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/itsakshatsinghh/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/itsakshatsinghh/DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/itsakshatsinghh/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/itsakshatsinghh/DSA/tree/master/0257-binary-tree-paths) |
+| [1143-longest-common-subsequence](https://github.com/itsakshatsinghh/DSA/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/itsakshatsinghh/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/itsakshatsinghh/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/itsakshatsinghh/DSA/tree/master/1894-merge-strings-alternately) |
