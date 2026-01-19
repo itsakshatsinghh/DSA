@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/itsakshatsinghh/DSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/itsakshatsinghh/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/itsakshatsinghh/DSA/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/itsakshatsinghh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/itsakshatsinghh/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/itsakshatsinghh/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/itsakshatsinghh/DSA/tree/master/0283-move-zeroes) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/itsakshatsinghh/DSA/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/itsakshatsinghh/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/itsakshatsinghh/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/itsakshatsinghh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/itsakshatsinghh/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/itsakshatsinghh/DSA/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/itsakshatsinghh/DSA/tree/master/0941-sort-array-by-parity) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itsakshatsinghh/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/itsakshatsinghh/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/itsakshatsinghh/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/itsakshatsinghh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Design
 |  |
 | ------- |
@@ -389,4 +392,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/itsakshatsinghh/DSA/tree/master/0139-word-break) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/itsakshatsinghh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/itsakshatsinghh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
