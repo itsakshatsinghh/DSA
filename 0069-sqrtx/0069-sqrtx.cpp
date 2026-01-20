@@ -1,22 +1,15 @@
 class Solution {
 public:
     int mySqrt(int x) {
-        long long s=1;
+        long long s=0;
         long long e=x;
-        
-        if(x==1){
-            return x;
-        }
-        if (x < 1) {
-            e = 1.0;
-        }
-        while(e>=s){
+        while(s<=e){
             long long mid=s+(e-s)/2;
-            long long sq= mid*mid;
-            if (sq == x) {
-                return mid; 
+            long long sq=mid*mid;
+            if(sq==x){
+                return mid;
             }
-            if(sq>x){
+            else if(sq>x){
                 e=mid-1;
             }
             else{
@@ -24,6 +17,5 @@ public:
             }
         }
         return e;
-        
     }
 };
