@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/itsakshatsinghh/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/itsakshatsinghh/DSA/tree/master/0206-reverse-linked-list) |
+| [1922-count-good-numbers](https://github.com/itsakshatsinghh/DSA/tree/master/1922-count-good-numbers) |
 ## Math
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/itsakshatsinghh/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/itsakshatsinghh/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/itsakshatsinghh/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1922-count-good-numbers](https://github.com/itsakshatsinghh/DSA/tree/master/1922-count-good-numbers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/itsakshatsinghh/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2491-smallest-even-multiple](https://github.com/itsakshatsinghh/DSA/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/itsakshatsinghh/DSA/tree/master/2571-find-the-pivot-integer) |
