@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/itsakshatsinghh/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/itsakshatsinghh/DSA/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/itsakshatsinghh/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/itsakshatsinghh/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/itsakshatsinghh/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/itsakshatsinghh/DSA/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/itsakshatsinghh/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/itsakshatsinghh/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/itsakshatsinghh/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/itsakshatsinghh/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/itsakshatsinghh/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/itsakshatsinghh/DSA/tree/master/0496-next-greater-element-i) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/itsakshatsinghh/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/itsakshatsinghh/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsakshatsinghh/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/itsakshatsinghh/DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/itsakshatsinghh/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/itsakshatsinghh/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/itsakshatsinghh/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/itsakshatsinghh/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Trie
