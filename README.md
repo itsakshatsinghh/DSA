@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/itsakshatsinghh/DSA/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/itsakshatsinghh/DSA/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/itsakshatsinghh/DSA/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/itsakshatsinghh/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0941-sort-array-by-parity](https://github.com/itsakshatsinghh/DSA/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/itsakshatsinghh/DSA/tree/master/0978-valid-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/itsakshatsinghh/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/itsakshatsinghh/DSA/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/itsakshatsinghh/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/itsakshatsinghh/DSA/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/itsakshatsinghh/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/itsakshatsinghh/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/itsakshatsinghh/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/itsakshatsinghh/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/itsakshatsinghh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/itsakshatsinghh/DSA/tree/master/0238-product-of-array-except-self) |
+| [0713-subarray-product-less-than-k](https://github.com/itsakshatsinghh/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/itsakshatsinghh/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2571-find-the-pivot-integer](https://github.com/itsakshatsinghh/DSA/tree/master/2571-find-the-pivot-integer) |
 ## Hash Table
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/itsakshatsinghh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/itsakshatsinghh/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/itsakshatsinghh/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0713-subarray-product-less-than-k](https://github.com/itsakshatsinghh/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/itsakshatsinghh/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/itsakshatsinghh/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Trie
