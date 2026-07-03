@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/itsakshatsinghh/DSA/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/itsakshatsinghh/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/itsakshatsinghh/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/itsakshatsinghh/DSA/tree/master/0904-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/itsakshatsinghh/DSA/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/itsakshatsinghh/DSA/tree/master/0978-valid-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/itsakshatsinghh/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/itsakshatsinghh/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/itsakshatsinghh/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/itsakshatsinghh/DSA/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/itsakshatsinghh/DSA/tree/master/0904-fruit-into-baskets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/itsakshatsinghh/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/itsakshatsinghh/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/itsakshatsinghh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/itsakshatsinghh/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/itsakshatsinghh/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/itsakshatsinghh/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/itsakshatsinghh/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/itsakshatsinghh/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/itsakshatsinghh/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Trie
