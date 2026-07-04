@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/itsakshatsinghh/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/itsakshatsinghh/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/itsakshatsinghh/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/itsakshatsinghh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2058-concatenation-of-array](https://github.com/itsakshatsinghh/DSA/tree/master/2058-concatenation-of-array) |
 | [2126-destroying-asteroids](https://github.com/itsakshatsinghh/DSA/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/itsakshatsinghh/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/itsakshatsinghh/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/itsakshatsinghh/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/itsakshatsinghh/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/itsakshatsinghh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/itsakshatsinghh/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/itsakshatsinghh/DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/itsakshatsinghh/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/itsakshatsinghh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2126-destroying-asteroids](https://github.com/itsakshatsinghh/DSA/tree/master/2126-destroying-asteroids) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/itsakshatsinghh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/itsakshatsinghh/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/itsakshatsinghh/DSA/tree/master/0605-can-place-flowers) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/itsakshatsinghh/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/itsakshatsinghh/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/itsakshatsinghh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2126-destroying-asteroids](https://github.com/itsakshatsinghh/DSA/tree/master/2126-destroying-asteroids) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/itsakshatsinghh/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/itsakshatsinghh/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/itsakshatsinghh/DSA/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/itsakshatsinghh/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/itsakshatsinghh/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/itsakshatsinghh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2571-find-the-pivot-integer](https://github.com/itsakshatsinghh/DSA/tree/master/2571-find-the-pivot-integer) |
 ## Hash Table
 |  |
@@ -427,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/itsakshatsinghh/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/itsakshatsinghh/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/itsakshatsinghh/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/itsakshatsinghh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/itsakshatsinghh/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Trie
 |  |
