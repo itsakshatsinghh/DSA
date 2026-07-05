@@ -1,16 +1,19 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        vector<int> map(128,0);
-        for(auto c: t) map[c]++;
-        int counter=t.size(), begin=0, end=0, d=INT_MAX, head=0;
-        while(end<s.size()){
-            if(map[s[end++]]-->0) counter--; 
-            while(counter==0){ 
-                if(end-begin<d)  d=end-(head=begin);
-                if(map[s[begin++]]++==0) counter++;  
-            }  
+        
+        ///////////// x3
+        vector<int> map(128 , 0);
+        for(auto c: t) map[c]++; // freq mapping
+        int counter =t.size() , st= 0 , e= 0 , minl =INT_MAX , head = 0;
+        while(e<s.size()){
+            if(map[s[e++]]-->0) counter --;
+            while(counter==0){
+                if(e-st<minl) minl = e-(head=st);
+                if(map[s[st++]]++==0) counter++;
+            }
         }
-        return d==INT_MAX? "":s.substr(head, d);
+        return minl == INT_MAX ? "":s.substr(head,minl);
+
     }
 };
