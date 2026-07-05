@@ -1,21 +1,22 @@
 class Solution {
 public:
     int totalFruit(vector<int>& nums) {
-        int s = 0 ,  mxml= 0 ;
+        int l = 0 , n = nums.size();
         unordered_map<int , int> b;
-
-        for(int e = 0 ; e<nums.size() ; e++){
-            b[nums[e]]++;
+        int maxl = 0 ;
+        for(int r = 0  ; r<n ; r++){
+            //freq mapping 
+            b[nums[r]]++;
             while(b.size()>2){
-                b[nums[s]]--;
-                if(b[nums[s]]==0){
-                    b.erase(nums[s]);
+                //freq deletion
+                b[nums[l]]--;
+                if(b[nums[l]]==0){
+                    b.erase(nums[l]);
                 }
-                s++;
+                l++;
             }
-            mxml = max(mxml , e-s+1);
+            maxl = max(maxl , r-l+1);
         }
-
-        return mxml;
+        return maxl;
     }
 };
