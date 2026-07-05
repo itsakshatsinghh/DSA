@@ -9,30 +9,30 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        //detecting the point of cycle
-        ListNode* slow=head;
-        ListNode* fast=head;
-        bool iscyc=false;
-
-        while(fast!=NULL && fast->next!=NULL){
-            slow=slow->next;
-            fast=fast->next->next;
-
-            if(slow==fast){
-                iscyc=true;
+        //first check the cycle ( the point where f and s collides and after than once its confirmed then move the f to head but keep the s pointer where the collision happens) now move the s pointer one step and also the f pointer one step , they will collide again where the the thing has happend - keep the index and return it 
+        if(!head || !head->next){
+            return nullptr;
+        }
+        ListNode* s = head;
+        ListNode* f = head;
+        bool cycle = false;
+        while(f!=nullptr && f->next!=nullptr){
+            s= s->next;
+            f= f->next->next;
+            if(s==f){
+                //cycle detected 
+                cycle = true;
                 break;
             }
         }
-        if(iscyc==false){
-            return NULL;
+        if(!cycle){
+            return nullptr;
         }
-        slow=head;
-        // fast=head;
-        while(slow!=fast){
-            slow=slow->next;
-            fast=fast->next;
+        f= head;
+        while(s!=f){
+            s=s->next;
+            f=f->next;
         }
-        return slow;
-        
+        return s;
     }
 };
