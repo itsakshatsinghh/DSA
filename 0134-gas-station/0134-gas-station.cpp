@@ -1,11 +1,11 @@
 class Solution {
 public:
     int canCompleteCircuit(vector<int>& gas, vector<int>& cost) {
-        int tg = 0;
+        int tg = 0;int tc = 0;
         for(int g: gas){
             tg = tg+g;
         }
-        int tc = 0;
+        
         for(int c: cost){
             tc = tc+c;
         }
