@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/itsakshatsinghh/DSA/tree/master/1291-sequential-digits) |
+| [2437-number-of-valid-clock-times](https://github.com/itsakshatsinghh/DSA/tree/master/2437-number-of-valid-clock-times) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/itsakshatsinghh/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Sorting
 |  |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/itsakshatsinghh/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/itsakshatsinghh/DSA/tree/master/1894-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/itsakshatsinghh/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2437-number-of-valid-clock-times](https://github.com/itsakshatsinghh/DSA/tree/master/2437-number-of-valid-clock-times) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/itsakshatsinghh/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3884-first-matching-character-from-both-ends](https://github.com/itsakshatsinghh/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Number Theory
