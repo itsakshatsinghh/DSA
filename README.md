@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/itsakshatsinghh/DSA/tree/master/2058-concatenation-of-array) |
 | [2126-destroying-asteroids](https://github.com/itsakshatsinghh/DSA/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/itsakshatsinghh/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/itsakshatsinghh/DSA/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/itsakshatsinghh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2401-longest-nice-subarray](https://github.com/itsakshatsinghh/DSA/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/itsakshatsinghh/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/itsakshatsinghh/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itsakshatsinghh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2126-destroying-asteroids](https://github.com/itsakshatsinghh/DSA/tree/master/2126-destroying-asteroids) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/itsakshatsinghh/DSA/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/itsakshatsinghh/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/itsakshatsinghh/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/itsakshatsinghh/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
