@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/itsakshatsinghh/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/itsakshatsinghh/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/itsakshatsinghh/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/itsakshatsinghh/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/itsakshatsinghh/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/itsakshatsinghh/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsakshatsinghh/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/itsakshatsinghh/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/itsakshatsinghh/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2401-longest-nice-subarray](https://github.com/itsakshatsinghh/DSA/tree/master/2401-longest-nice-subarray) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/itsakshatsinghh/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/itsakshatsinghh/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Linked List
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/itsakshatsinghh/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2491-smallest-even-multiple](https://github.com/itsakshatsinghh/DSA/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/itsakshatsinghh/DSA/tree/master/2571-find-the-pivot-integer) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/itsakshatsinghh/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/itsakshatsinghh/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/itsakshatsinghh/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/itsakshatsinghh/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
