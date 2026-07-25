@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/itsakshatsinghh/DSA/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/itsakshatsinghh/DSA/tree/master/2571-find-the-pivot-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/itsakshatsinghh/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/itsakshatsinghh/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/itsakshatsinghh/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/itsakshatsinghh/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/itsakshatsinghh/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/itsakshatsinghh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/itsakshatsinghh/DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/itsakshatsinghh/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3536-maximum-product-of-two-digits](https://github.com/itsakshatsinghh/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsakshatsinghh/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/itsakshatsinghh/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4107-find-missing-elements](https://github.com/itsakshatsinghh/DSA/tree/master/4107-find-missing-elements) |
