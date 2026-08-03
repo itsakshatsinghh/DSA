@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/itsakshatsinghh/DSA/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/itsakshatsinghh/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/itsakshatsinghh/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0877-stone-game](https://github.com/itsakshatsinghh/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/itsakshatsinghh/DSA/tree/master/0904-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/itsakshatsinghh/DSA/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/itsakshatsinghh/DSA/tree/master/0978-valid-mountain-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/itsakshatsinghh/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/itsakshatsinghh/DSA/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/itsakshatsinghh/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/itsakshatsinghh/DSA/tree/master/0877-stone-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/itsakshatsinghh/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/itsakshatsinghh/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/itsakshatsinghh/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/itsakshatsinghh/DSA/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/itsakshatsinghh/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/itsakshatsinghh/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0877-stone-game](https://github.com/itsakshatsinghh/DSA/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/itsakshatsinghh/DSA/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/itsakshatsinghh/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/itsakshatsinghh/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -524,4 +527,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/itsakshatsinghh/DSA/tree/master/0098-validate-binary-search-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/itsakshatsinghh/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
