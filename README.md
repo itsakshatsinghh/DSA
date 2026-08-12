@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/itsakshatsinghh/DSA/tree/master/1922-count-good-numbers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/itsakshatsinghh/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2491-smallest-even-multiple](https://github.com/itsakshatsinghh/DSA/tree/master/2491-smallest-even-multiple) |
+| [2523-closest-prime-numbers-in-range](https://github.com/itsakshatsinghh/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 | [2571-find-the-pivot-integer](https://github.com/itsakshatsinghh/DSA/tree/master/2571-find-the-pivot-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/itsakshatsinghh/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/itsakshatsinghh/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/itsakshatsinghh/DSA/tree/master/0258-add-digits) |
 | [1250-check-if-it-is-a-good-array](https://github.com/itsakshatsinghh/DSA/tree/master/1250-check-if-it-is-a-good-array) |
 | [2491-smallest-even-multiple](https://github.com/itsakshatsinghh/DSA/tree/master/2491-smallest-even-multiple) |
+| [2523-closest-prime-numbers-in-range](https://github.com/itsakshatsinghh/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsakshatsinghh/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -538,14 +540,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/itsakshatsinghh/DSA/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/itsakshatsinghh/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/itsakshatsinghh/DSA/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/itsakshatsinghh/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/itsakshatsinghh/DSA/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/itsakshatsinghh/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 ## Bézout's Lemma
 |  |
 | ------- |
