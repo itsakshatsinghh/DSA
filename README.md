@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/itsakshatsinghh/DSA/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/itsakshatsinghh/DSA/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/itsakshatsinghh/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1250-check-if-it-is-a-good-array](https://github.com/itsakshatsinghh/DSA/tree/master/1250-check-if-it-is-a-good-array) |
 | [1331-rank-transform-of-an-array](https://github.com/itsakshatsinghh/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/itsakshatsinghh/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsakshatsinghh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/itsakshatsinghh/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/itsakshatsinghh/DSA/tree/master/0877-stone-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/itsakshatsinghh/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1250-check-if-it-is-a-good-array](https://github.com/itsakshatsinghh/DSA/tree/master/1250-check-if-it-is-a-good-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/itsakshatsinghh/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/itsakshatsinghh/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1922-count-good-numbers](https://github.com/itsakshatsinghh/DSA/tree/master/1922-count-good-numbers) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/itsakshatsinghh/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/itsakshatsinghh/DSA/tree/master/0258-add-digits) |
+| [1250-check-if-it-is-a-good-array](https://github.com/itsakshatsinghh/DSA/tree/master/1250-check-if-it-is-a-good-array) |
 | [2491-smallest-even-multiple](https://github.com/itsakshatsinghh/DSA/tree/master/2491-smallest-even-multiple) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsakshatsinghh/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -543,4 +546,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/itsakshatsinghh/DSA/tree/master/0204-count-primes) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/itsakshatsinghh/DSA/tree/master/1250-check-if-it-is-a-good-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/itsakshatsinghh/DSA/tree/master/1250-check-if-it-is-a-good-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/itsakshatsinghh/DSA/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/itsakshatsinghh/DSA/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
