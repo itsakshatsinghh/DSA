@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/itsakshatsinghh/DSA/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/itsakshatsinghh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2401-longest-nice-subarray](https://github.com/itsakshatsinghh/DSA/tree/master/2401-longest-nice-subarray) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/itsakshatsinghh/DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/itsakshatsinghh/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2662-check-knight-tour-configuration](https://github.com/itsakshatsinghh/DSA/tree/master/2662-check-knight-tour-configuration) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/itsakshatsinghh/DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/itsakshatsinghh/DSA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/itsakshatsinghh/DSA/tree/master/0054-spiral-matrix) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/itsakshatsinghh/DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2662-check-knight-tour-configuration](https://github.com/itsakshatsinghh/DSA/tree/master/2662-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/itsakshatsinghh/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/itsakshatsinghh/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itsakshatsinghh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/itsakshatsinghh/DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2571-find-the-pivot-integer](https://github.com/itsakshatsinghh/DSA/tree/master/2571-find-the-pivot-integer) |
 ## Hash Table
 |  |
