@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/itsakshatsinghh/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/itsakshatsinghh/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsakshatsinghh/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4035-maximum-valid-split-positions-i](https://github.com/itsakshatsinghh/DSA/tree/master/4035-maximum-valid-split-positions-i) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/itsakshatsinghh/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4107-find-missing-elements](https://github.com/itsakshatsinghh/DSA/tree/master/4107-find-missing-elements) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/itsakshatsinghh/DSA/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/itsakshatsinghh/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/itsakshatsinghh/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsakshatsinghh/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4035-maximum-valid-split-positions-i](https://github.com/itsakshatsinghh/DSA/tree/master/4035-maximum-valid-split-positions-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/itsakshatsinghh/DSA/tree/master/1291-sequential-digits) |
 | [2437-number-of-valid-clock-times](https://github.com/itsakshatsinghh/DSA/tree/master/2437-number-of-valid-clock-times) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/itsakshatsinghh/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
+| [4035-maximum-valid-split-positions-i](https://github.com/itsakshatsinghh/DSA/tree/master/4035-maximum-valid-split-positions-i) |
 ## Sorting
 |  |
 | ------- |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/itsakshatsinghh/DSA/tree/master/2491-smallest-even-multiple) |
 | [2523-closest-prime-numbers-in-range](https://github.com/itsakshatsinghh/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsakshatsinghh/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4035-maximum-valid-split-positions-i](https://github.com/itsakshatsinghh/DSA/tree/master/4035-maximum-valid-split-positions-i) |
 ## Greedy
 |  |
 | ------- |
