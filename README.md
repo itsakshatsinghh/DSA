@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/itsakshatsinghh/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2390-removing-stars-from-a-string](https://github.com/itsakshatsinghh/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2662-check-knight-tour-configuration](https://github.com/itsakshatsinghh/DSA/tree/master/2662-check-knight-tour-configuration) |
+| [3498-reverse-degree-of-a-string](https://github.com/itsakshatsinghh/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsakshatsinghh/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/itsakshatsinghh/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2437-number-of-valid-clock-times](https://github.com/itsakshatsinghh/DSA/tree/master/2437-number-of-valid-clock-times) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/itsakshatsinghh/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [3498-reverse-degree-of-a-string](https://github.com/itsakshatsinghh/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/itsakshatsinghh/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Number Theory
 |  |
