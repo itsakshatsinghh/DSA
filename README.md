@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/itsakshatsinghh/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/itsakshatsinghh/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/itsakshatsinghh/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/itsakshatsinghh/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/itsakshatsinghh/DSA/tree/master/0070-climbing-stairs) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/itsakshatsinghh/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/itsakshatsinghh/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/itsakshatsinghh/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/itsakshatsinghh/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/itsakshatsinghh/DSA/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/itsakshatsinghh/DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/itsakshatsinghh/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/itsakshatsinghh/DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/itsakshatsinghh/DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/itsakshatsinghh/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/itsakshatsinghh/DSA/tree/master/0051-n-queens) |
@@ -582,4 +585,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/itsakshatsinghh/DSA/tree/master/1250-check-if-it-is-a-good-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/itsakshatsinghh/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
