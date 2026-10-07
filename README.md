@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/itsakshatsinghh/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/itsakshatsinghh/DSA/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/itsakshatsinghh/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/itsakshatsinghh/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/itsakshatsinghh/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/itsakshatsinghh/DSA/tree/master/1894-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/itsakshatsinghh/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/itsakshatsinghh/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/itsakshatsinghh/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/itsakshatsinghh/DSA/tree/master/0496-next-greater-element-i) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/itsakshatsinghh/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/itsakshatsinghh/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2390-removing-stars-from-a-string](https://github.com/itsakshatsinghh/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/itsakshatsinghh/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -589,4 +591,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/itsakshatsinghh/DSA/tree/master/0022-generate-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/itsakshatsinghh/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
