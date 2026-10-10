@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/itsakshatsinghh/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/itsakshatsinghh/DSA/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/itsakshatsinghh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/itsakshatsinghh/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2401-longest-nice-subarray](https://github.com/itsakshatsinghh/DSA/tree/master/2401-longest-nice-subarray) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/itsakshatsinghh/DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/itsakshatsinghh/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/itsakshatsinghh/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/itsakshatsinghh/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itsakshatsinghh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/itsakshatsinghh/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/itsakshatsinghh/DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 ## Bit Manipulation
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itsakshatsinghh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2126-destroying-asteroids](https://github.com/itsakshatsinghh/DSA/tree/master/2126-destroying-asteroids) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/itsakshatsinghh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/itsakshatsinghh/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/itsakshatsinghh/DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/itsakshatsinghh/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3536-maximum-product-of-two-digits](https://github.com/itsakshatsinghh/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itsakshatsinghh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2126-destroying-asteroids](https://github.com/itsakshatsinghh/DSA/tree/master/2126-destroying-asteroids) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/itsakshatsinghh/DSA/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/itsakshatsinghh/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/itsakshatsinghh/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/itsakshatsinghh/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/itsakshatsinghh/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
@@ -532,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/itsakshatsinghh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0630-course-schedule-iii](https://github.com/itsakshatsinghh/DSA/tree/master/0630-course-schedule-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsakshatsinghh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/itsakshatsinghh/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quickselect
 |  |
 | ------- |
