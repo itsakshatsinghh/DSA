@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/itsakshatsinghh/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/itsakshatsinghh/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/itsakshatsinghh/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0856-score-of-parentheses](https://github.com/itsakshatsinghh/DSA/tree/master/0856-score-of-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/itsakshatsinghh/DSA/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/itsakshatsinghh/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/itsakshatsinghh/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/itsakshatsinghh/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/itsakshatsinghh/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/itsakshatsinghh/DSA/tree/master/0496-next-greater-element-i) |
+| [0856-score-of-parentheses](https://github.com/itsakshatsinghh/DSA/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/itsakshatsinghh/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/itsakshatsinghh/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2390-removing-stars-from-a-string](https://github.com/itsakshatsinghh/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -600,5 +602,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/itsakshatsinghh/DSA/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/itsakshatsinghh/DSA/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/itsakshatsinghh/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
