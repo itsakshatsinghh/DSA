@@ -7,8 +7,9 @@ public:
         for(auto c: t) map[c]++; // freq mapping
         int counter =t.size() , st= 0 , e= 0 , minl =INT_MAX , head = 0;
         while(e<s.size()){
-            if(map[s[e++]]-->0) counter --;
-            while(counter==0){
+            if(map[s[e++]]-->0) counter --; // standard if cond
+
+            while(counter==0){ // standard while loop condn
                 if(e-st<minl) minl = e-(head=st);
                 if(map[s[st++]]++==0) counter++;
             }
