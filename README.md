@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/itsakshatsinghh/DSA/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/itsakshatsinghh/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/itsakshatsinghh/DSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/itsakshatsinghh/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/itsakshatsinghh/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/itsakshatsinghh/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/itsakshatsinghh/DSA/tree/master/0053-maximum-subarray) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/itsakshatsinghh/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsakshatsinghh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/itsakshatsinghh/DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/itsakshatsinghh/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/itsakshatsinghh/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/itsakshatsinghh/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/itsakshatsinghh/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/itsakshatsinghh/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/itsakshatsinghh/DSA/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/itsakshatsinghh/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/itsakshatsinghh/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/itsakshatsinghh/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/itsakshatsinghh/DSA/tree/master/0070-climbing-stairs) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/itsakshatsinghh/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/itsakshatsinghh/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/itsakshatsinghh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/itsakshatsinghh/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/itsakshatsinghh/DSA/tree/master/0155-min-stack) |
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/itsakshatsinghh/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/itsakshatsinghh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/itsakshatsinghh/DSA/tree/master/0496-next-greater-element-i) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/itsakshatsinghh/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
