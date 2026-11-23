@@ -623,4 +623,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/itsakshatsinghh/DSA/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/itsakshatsinghh/DSA/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/itsakshatsinghh/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/itsakshatsinghh/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
