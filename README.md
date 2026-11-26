@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/itsakshatsinghh/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2390-removing-stars-from-a-string](https://github.com/itsakshatsinghh/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2662-check-knight-tour-configuration](https://github.com/itsakshatsinghh/DSA/tree/master/2662-check-knight-tour-configuration) |
+| [3360-stone-removal-game](https://github.com/itsakshatsinghh/DSA/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/itsakshatsinghh/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsakshatsinghh/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/itsakshatsinghh/DSA/tree/master/2491-smallest-even-multiple) |
 | [2523-closest-prime-numbers-in-range](https://github.com/itsakshatsinghh/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 | [2571-find-the-pivot-integer](https://github.com/itsakshatsinghh/DSA/tree/master/2571-find-the-pivot-integer) |
+| [3360-stone-removal-game](https://github.com/itsakshatsinghh/DSA/tree/master/3360-stone-removal-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/itsakshatsinghh/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/itsakshatsinghh/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/itsakshatsinghh/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
