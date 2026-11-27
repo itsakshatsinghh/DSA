@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/itsakshatsinghh/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/itsakshatsinghh/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsakshatsinghh/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/itsakshatsinghh/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4035-maximum-valid-split-positions-i](https://github.com/itsakshatsinghh/DSA/tree/master/4035-maximum-valid-split-positions-i) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/itsakshatsinghh/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4107-find-missing-elements](https://github.com/itsakshatsinghh/DSA/tree/master/4107-find-missing-elements) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/itsakshatsinghh/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/itsakshatsinghh/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/itsakshatsinghh/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/itsakshatsinghh/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Memoization
 |  |
 | ------- |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/itsakshatsinghh/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/itsakshatsinghh/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/itsakshatsinghh/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/itsakshatsinghh/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/itsakshatsinghh/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
